@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AMD\\OneDrive - Funda\u00E7\u00E3o Salvador Arena\\EC5 - LinguagemDeProgramacao\\C#\\CadastroDeJogosWindowsForms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C00ECB2C-E892-4523-BB1C-4444CEA95811}|CadastroDeJogosWindowsForms\\CadastroDeJogosWindowsForms.csproj|c:\\users\\amd\\onedrive - funda\u00E7\u00E3o salvador arena\\ec5 - linguagemdeprogramacao\\c#\\cadastrodejogoswindowsforms\\cadastrodejogoswindowsforms\\dao\\helperdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C00ECB2C-E892-4523-BB1C-4444CEA95811}|CadastroDeJogosWindowsForms\\CadastroDeJogosWindowsForms.csproj|solutionrelative:cadastrodejogoswindowsforms\\dao\\helperdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C00ECB2C-E892-4523-BB1C-4444CEA95811}|CadastroDeJogosWindowsForms\\CadastroDeJogosWindowsForms.csproj|C:\\Users\\AMD\\OneDrive - Funda\u00E7\u00E3o Salvador Arena\\EC5 - LinguagemDeProgramacao\\C#\\CadastroDeJogosWindowsForms\\cadastrodejogoswindowsforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C00ECB2C-E892-4523-BB1C-4444CEA95811}|CadastroDeJogosWindowsForms\\CadastroDeJogosWindowsForms.csproj|solutionrelative:cadastrodejogoswindowsforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C00ECB2C-E892-4523-BB1C-4444CEA95811}|CadastroDeJogosWindowsForms\\CadastroDeJogosWindowsForms.csproj|c:\\users\\amd\\onedrive - funda\u00E7\u00E3o salvador arena\\ec5 - linguagemdeprogramacao\\c#\\cadastrodejogoswindowsforms\\cadastrodejogoswindowsforms\\dao\\jogosdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C00ECB2C-E892-4523-BB1C-4444CEA95811}|CadastroDeJogosWindowsForms\\CadastroDeJogosWindowsForms.csproj|solutionrelative:cadastrodejogoswindowsforms\\dao\\jogosdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C00ECB2C-E892-4523-BB1C-4444CEA95811}|CadastroDeJogosWindowsForms\\CadastroDeJogosWindowsForms.csproj|c:\\users\\amd\\onedrive - funda\u00E7\u00E3o salvador arena\\ec5 - linguagemdeprogramacao\\c#\\cadastrodejogoswindowsforms\\cadastrodejogoswindowsforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C00ECB2C-E892-4523-BB1C-4444CEA95811}|CadastroDeJogosWindowsForms\\CadastroDeJogosWindowsForms.csproj|solutionrelative:cadastrodejogoswindowsforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HelperDAO.cs",
+              "DocumentMoniker": "C:\\Users\\AMD\\OneDrive - Funda\u00E7\u00E3o Salvador Arena\\EC5 - LinguagemDeProgramacao\\C#\\CadastroDeJogosWindowsForms\\CadastroDeJogosWindowsForms\\DAO\\HelperDAO.cs",
+              "RelativeDocumentMoniker": "CadastroDeJogosWindowsForms\\DAO\\HelperDAO.cs",
+              "ToolTip": "C:\\Users\\AMD\\OneDrive - Funda\u00E7\u00E3o Salvador Arena\\EC5 - LinguagemDeProgramacao\\C#\\CadastroDeJogosWindowsForms\\CadastroDeJogosWindowsForms\\DAO\\HelperDAO.cs",
+              "RelativeToolTip": "CadastroDeJogosWindowsForms\\DAO\\HelperDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T15:33:44.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\AMD\\OneDrive - Funda\u00E7\u00E3o Salvador Arena\\EC5 - LinguagemDeProgramacao\\C#\\CadastroDeJogosWindowsForms\\CadastroDeJogosWindowsForms\\Form1.cs",
+              "RelativeDocumentMoniker": "CadastroDeJogosWindowsForms\\Form1.cs",
+              "ToolTip": "C:\\Users\\AMD\\OneDrive - Funda\u00E7\u00E3o Salvador Arena\\EC5 - LinguagemDeProgramacao\\C#\\CadastroDeJogosWindowsForms\\CadastroDeJogosWindowsForms\\Form1.cs",
+              "RelativeToolTip": "CadastroDeJogosWindowsForms\\Form1.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwD0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T15:25:04.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JogosDAO.cs",
+              "DocumentMoniker": "C:\\Users\\AMD\\OneDrive - Funda\u00E7\u00E3o Salvador Arena\\EC5 - LinguagemDeProgramacao\\C#\\CadastroDeJogosWindowsForms\\CadastroDeJogosWindowsForms\\DAO\\JogosDAO.cs",
+              "RelativeDocumentMoniker": "CadastroDeJogosWindowsForms\\DAO\\JogosDAO.cs",
+              "ToolTip": "C:\\Users\\AMD\\OneDrive - Funda\u00E7\u00E3o Salvador Arena\\EC5 - LinguagemDeProgramacao\\C#\\CadastroDeJogosWindowsForms\\CadastroDeJogosWindowsForms\\DAO\\JogosDAO.cs",
+              "RelativeToolTip": "CadastroDeJogosWindowsForms\\DAO\\JogosDAO.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwCAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T15:00:12.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AMD\\OneDrive - Funda\u00E7\u00E3o Salvador Arena\\EC5 - LinguagemDeProgramacao\\C#\\CadastroDeJogosWindowsForms\\CadastroDeJogosWindowsForms\\Form1.cs",
+              "RelativeDocumentMoniker": "CadastroDeJogosWindowsForms\\Form1.cs",
+              "ToolTip": "C:\\Users\\AMD\\OneDrive - Funda\u00E7\u00E3o Salvador Arena\\EC5 - LinguagemDeProgramacao\\C#\\CadastroDeJogosWindowsForms\\CadastroDeJogosWindowsForms\\Form1.cs [Design]",
+              "RelativeToolTip": "CadastroDeJogosWindowsForms\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T01:32:39.624Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
