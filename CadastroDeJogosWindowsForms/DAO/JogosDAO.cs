@@ -1,4 +1,7 @@
-﻿using System.Data.SqlClient;
+﻿using System;
+using System.Collections.Generic;
+using System.Data;
+using System.Data.SqlClient;
 using CadastroDeJogosWindowsForms.Models;
 
 namespace CadastroDeJogosWindowsForms.DAO
@@ -31,6 +34,40 @@ namespace CadastroDeJogosWindowsForms.DAO
         {
             string sql = $"DELETE FROM jogos WHERE id = {id}";
             HelperDAO.ExecutaSQL(sql);
+        }
+        public JogosViewModel Consultar(int id)
+        {
+            string sql = "SELECT * FROM jogos WHERE id = " + id;
+            DataTable table = HelperDAO.ExecutaSelect(sql);
+            if (table.Rows.Count == 0)
+            {
+                return null;
+            }
+            else
+            {
+                return MontaModel(table.Rows[0]);
+            }
+        }
+        public static JogosViewModel MontaModel(DataRow registro)
+        {
+            JogosViewModel jogo = new JogosViewModel();
+            jogo.Id = Convert.ToInt32(registro["id"]);
+            jogo.Descricao = registro["descricao"].ToString();
+            jogo.ValorLocacao = Convert.ToDouble(registro["valorLocacao"]);
+            jogo.DataAquisicao = Convert.ToDateTime(registro["dataAquisicao"]);
+            jogo.CategoriaId = Convert.ToInt32(registro["categoriaId"]);
+            return jogo;
+        }
+        public List<JogosViewModel> Listar()
+        {
+            List<JogosViewModel> retorno = new List<JogosViewModel>();
+            string sql = "SELECT * FROM Jogos ORDER  BY descricao";
+            DataTable table = HelperDAO.ExecutaSelect(sql);
+            foreach (DataRow registro in table.Rows)
+            {
+                retorno.Add(MontaModel(registro));
+            }
+            return retorno;
         }
     }
 }

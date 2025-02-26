@@ -1,0 +1,10 @@
+C:\Users\AMD\OneDrive - Fundação Salvador Arena\EC5 - LinguagemDeProgramacao\C#\CadastroDeJogosWindowsForms\CadastroDeJogosWindowsForms\obj\Debug\CadastroDeJogosWindowsForms.csproj.AssemblyReference.cache
+C:\Users\AMD\OneDrive - Fundação Salvador Arena\EC5 - LinguagemDeProgramacao\C#\CadastroDeJogosWindowsForms\CadastroDeJogosWindowsForms\obj\Debug\CadastroDeJogosWindowsForms.Form1.resources
+C:\Users\AMD\OneDrive - Fundação Salvador Arena\EC5 - LinguagemDeProgramacao\C#\CadastroDeJogosWindowsForms\CadastroDeJogosWindowsForms\obj\Debug\CadastroDeJogosWindowsForms.Properties.Resources.resources
+C:\Users\AMD\OneDrive - Fundação Salvador Arena\EC5 - LinguagemDeProgramacao\C#\CadastroDeJogosWindowsForms\CadastroDeJogosWindowsForms\obj\Debug\CadastroDeJogosWindowsForms.csproj.GenerateResource.cache
+C:\Users\AMD\OneDrive - Fundação Salvador Arena\EC5 - LinguagemDeProgramacao\C#\CadastroDeJogosWindowsForms\CadastroDeJogosWindowsForms\obj\Debug\CadastroDeJogosWindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\AMD\OneDrive - Fundação Salvador Arena\EC5 - LinguagemDeProgramacao\C#\CadastroDeJogosWindowsForms\CadastroDeJogosWindowsForms\bin\Debug\CadastroDeJogosWindowsForms.exe.config
+C:\Users\AMD\OneDrive - Fundação Salvador Arena\EC5 - LinguagemDeProgramacao\C#\CadastroDeJogosWindowsForms\CadastroDeJogosWindowsForms\bin\Debug\CadastroDeJogosWindowsForms.exe
+C:\Users\AMD\OneDrive - Fundação Salvador Arena\EC5 - LinguagemDeProgramacao\C#\CadastroDeJogosWindowsForms\CadastroDeJogosWindowsForms\bin\Debug\CadastroDeJogosWindowsForms.pdb
+C:\Users\AMD\OneDrive - Fundação Salvador Arena\EC5 - LinguagemDeProgramacao\C#\CadastroDeJogosWindowsForms\CadastroDeJogosWindowsForms\obj\Debug\CadastroDeJogosWindowsForms.exe
+C:\Users\AMD\OneDrive - Fundação Salvador Arena\EC5 - LinguagemDeProgramacao\C#\CadastroDeJogosWindowsForms\CadastroDeJogosWindowsForms\obj\Debug\CadastroDeJogosWindowsForms.pdb
