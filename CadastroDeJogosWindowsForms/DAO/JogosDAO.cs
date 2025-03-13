@@ -26,8 +26,8 @@ namespace CadastroDeJogosWindowsForms.DAO
         }
         public void Put(JogosViewModel jogo)
         {
-            string sql = "UPDATE jogos SET id = @id, descricao = @descricao, valorLocacao = @valorLocacao, " +
-                "dataAquisicao = @dataAquisicao, categoriaId = @categoriaId";
+            string sql = "UPDATE jogos SET descricao = @descricao, valorLocacao = @valorLocacao, " +
+                "dataAquisicao = @dataAquisicao, categoriaId = @categoriaId WHERE id = @id";
             HelperDAO.ExecutaSQL(sql, CriaParametros(jogo));
         }
         public void Delete(int id)
