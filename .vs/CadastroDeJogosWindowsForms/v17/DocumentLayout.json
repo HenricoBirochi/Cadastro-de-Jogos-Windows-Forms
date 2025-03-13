@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{C00ECB2C-E892-4523-BB1C-4444CEA95811}|CadastroDeJogosWindowsForms\\CadastroDeJogosWindowsForms.csproj|solutionrelative:cadastrodejogoswindowsforms\\dao\\conexaobd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C00ECB2C-E892-4523-BB1C-4444CEA95811}|CadastroDeJogosWindowsForms\\CadastroDeJogosWindowsForms.csproj|c:\\users\\amd\\onedrive - funda\u00E7\u00E3o salvador arena\\ec5 - linguagemdeprogramacao\\c#\\cadastrodejogoswindowsforms\\cadastrodejogoswindowsforms\\dao\\helperdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C00ECB2C-E892-4523-BB1C-4444CEA95811}|CadastroDeJogosWindowsForms\\CadastroDeJogosWindowsForms.csproj|C:\\Users\\AMD\\OneDrive - Funda\u00E7\u00E3o Salvador Arena\\EC5 - LinguagemDeProgramacao\\C#\\CadastroDeJogosWindowsForms\\cadastrodejogoswindowsforms\\dao\\helperdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C00ECB2C-E892-4523-BB1C-4444CEA95811}|CadastroDeJogosWindowsForms\\CadastroDeJogosWindowsForms.csproj|solutionrelative:cadastrodejogoswindowsforms\\dao\\helperdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C00ECB2C-E892-4523-BB1C-4444CEA95811}|CadastroDeJogosWindowsForms\\CadastroDeJogosWindowsForms.csproj|c:\\users\\amd\\onedrive - funda\u00E7\u00E3o salvador arena\\ec5 - linguagemdeprogramacao\\c#\\cadastrodejogoswindowsforms\\cadastrodejogoswindowsforms\\dao\\jogosdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C00ECB2C-E892-4523-BB1C-4444CEA95811}|CadastroDeJogosWindowsForms\\CadastroDeJogosWindowsForms.csproj|C:\\Users\\AMD\\OneDrive - Funda\u00E7\u00E3o Salvador Arena\\EC5 - LinguagemDeProgramacao\\C#\\CadastroDeJogosWindowsForms\\cadastrodejogoswindowsforms\\dao\\jogosdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C00ECB2C-E892-4523-BB1C-4444CEA95811}|CadastroDeJogosWindowsForms\\CadastroDeJogosWindowsForms.csproj|solutionrelative:cadastrodejogoswindowsforms\\dao\\jogosdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -51,8 +51,7 @@
               "RelativeToolTip": "CadastroDeJogosWindowsForms\\DAO\\HelperDAO.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T11:59:05.086Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T11:59:05.086Z"
             },
             {
               "$type": "Document",
@@ -64,8 +63,7 @@
               "RelativeToolTip": "CadastroDeJogosWindowsForms\\DAO\\JogosDAO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T11:56:58.494Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T11:56:58.494Z"
             }
           ]
         }
