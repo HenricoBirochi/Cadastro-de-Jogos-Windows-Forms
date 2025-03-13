@@ -40,13 +40,9 @@ namespace CadastroDeJogosWindowsForms.DAO
             string sql = "SELECT * FROM jogos WHERE id = " + id;
             DataTable table = HelperDAO.ExecutaSelect(sql);
             if (table.Rows.Count == 0)
-            {
                 return null;
-            }
             else
-            {
                 return MontaModel(table.Rows[0]);
-            }
         }
         public static JogosViewModel MontaModel(DataRow registro)
         {
@@ -64,9 +60,7 @@ namespace CadastroDeJogosWindowsForms.DAO
             string sql = "SELECT * FROM Jogos ORDER  BY descricao";
             DataTable table = HelperDAO.ExecutaSelect(sql);
             foreach (DataRow registro in table.Rows)
-            {
                 retorno.Add(MontaModel(registro));
-            }
             return retorno;
         }
     }
